@@ -1,0 +1,18 @@
+{
+    "Subject": "201400",
+    "RatStrain": "Wistar",
+    "RatSex": "male",
+    "AnesthesiaMaintenance": "isoflurane",
+    "TaskName": "sensory-stimulation",
+    "Paradigm": {
+        "SensorySystem": "hindpaw",
+        "Type": "thermal",
+        "Onsets": "238,478,718,958,1198,1438,1678,1918,2158,2398,2638,2878",
+        "Duration": "20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20"
+    },
+    "MRIVendor": "Bruker",
+    "MagneticFieldStrength": 4.7,
+    "EchoTime": 0.025,
+    "RepetitionTime": 4.0,
+    "Sequence": "EPI"
+}

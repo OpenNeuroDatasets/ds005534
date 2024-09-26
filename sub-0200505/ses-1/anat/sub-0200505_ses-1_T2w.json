@@ -1,0 +1,11 @@
+{
+    "Subject": "200505",
+    "RatStrain": "Fischer 344",
+    "RatSex": "female",
+    "AnesthesiaMaintenance": "isoflurane / medetomidine",
+    "MRIVendor": "Bruker",
+    "MagneticFieldStrength": 9.4,
+    "RepetitionTime": 2.0,
+    "Sequence": "RARE",
+    "EchoTime": 0.05
+}

@@ -1,0 +1,18 @@
+{
+    "Subject": "200607",
+    "RatStrain": "Wistar",
+    "RatSex": "female",
+    "AnesthesiaMaintenance": "medetomidine",
+    "TaskName": "sensory-stimulation",
+    "Paradigm": {
+        "SensorySystem": "forepaw",
+        "Type": "electric",
+        "Onsets": "60, 150, 240",
+        "Duration": "30, 30, 30"
+    },
+    "MRIVendor": "Bruker",
+    "MagneticFieldStrength": 9.4,
+    "EchoTime": 0.015,
+    "RepetitionTime": 1.5,
+    "Sequence": "GE-EPI"
+}

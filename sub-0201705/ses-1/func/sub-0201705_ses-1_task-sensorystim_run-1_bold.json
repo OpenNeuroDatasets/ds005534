@@ -1,0 +1,18 @@
+{
+    "Subject": "201705",
+    "RatStrain": "Sprague Dawley",
+    "RatSex": "male",
+    "AnesthesiaMaintenance": "medetomidine",
+    "TaskName": "sensory-stimulation",
+    "Paradigm": {
+        "SensorySystem": "eye",
+        "Type": "light",
+        "Onsets": "12, 30, 48, 66, 84, 102, 120, 138, 156, 174, 192, 210, 228, 246, 264, 282, 300, 318, 336, 354",
+        "Duration": "6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6"
+    },
+    "MRIVendor": "Bruker",
+    "MagneticFieldStrength": 17.2,
+    "EchoTime": 0.01,
+    "RepetitionTime": 1.0,
+    "Sequence": "GE-EPI"
+}

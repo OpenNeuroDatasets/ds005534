@@ -1,0 +1,11 @@
+{
+    "Subject": "200805",
+    "RatStrain": "Sprague Dawley",
+    "RatSex": "female",
+    "AnesthesiaMaintenance": "medetomidine",
+    "MRIVendor": "Bruker",
+    "MagneticFieldStrength": 9.4,
+    "RepetitionTime": 7.0,
+    "Sequence": "RARE",
+    "EchoTime": 0.049
+}

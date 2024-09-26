@@ -1,0 +1,10 @@
+{
+    "Subject": "201408",
+    "RatStrain": "Wistar",
+    "RatSex": "male",
+    "AnesthesiaMaintenance": "isoflurane",
+    "MRIVendor": "Bruker",
+    "MagneticFieldStrength": 4.7,
+    "RepetitionTime": 2.65,
+    "Sequence": "RARE"
+}

@@ -1,0 +1,11 @@
+{
+    "Subject": "200900",
+    "RatStrain": "Sprague Dawley",
+    "RatSex": "male",
+    "AnesthesiaMaintenance": "alpha-chloralose",
+    "MRIVendor": "Bruker",
+    "MagneticFieldStrength": 9.4,
+    "RepetitionTime": 5.2,
+    "Sequence": "RARE",
+    "EchoTime": 0.04
+}

@@ -1,0 +1,18 @@
+{
+    "Subject": "200206",
+    "RatStrain": "Sprague Dawley",
+    "RatSex": "male",
+    "AnesthesiaMaintenance": "isoflurane / medetomidine",
+    "TaskName": "sensory-stimulation",
+    "Paradigm": {
+        "SensorySystem": "hindpaw",
+        "Type": "electric",
+        "Onsets": "33, 123, 213, 303, 393, 483",
+        "Duration": "6, 6, 6, 6, 6, 6"
+    },
+    "MRIVendor": "Bruker",
+    "MagneticFieldStrength": 7.0,
+    "EchoTime": 0.018,
+    "RepetitionTime": 1.5,
+    "Sequence": "GE-EPI"
+}
