@@ -1,0 +1,11 @@
+{
+    "Subject": "201202",
+    "RatStrain": "Wistar",
+    "RatSex": "male",
+    "AnesthesiaMaintenance": "isoflurane / medetomidine",
+    "MRIVendor": "Bruker",
+    "MagneticFieldStrength": 9.4,
+    "RepetitionTime": 4.7,
+    "Sequence": "TurboRARE",
+    "EchoTime": 0.033
+}

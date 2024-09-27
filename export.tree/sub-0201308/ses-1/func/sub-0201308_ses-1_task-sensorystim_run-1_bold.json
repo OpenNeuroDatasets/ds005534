@@ -1,0 +1,18 @@
+{
+    "Subject": "201308",
+    "RatStrain": "Wistar",
+    "RatSex": "male",
+    "AnesthesiaMaintenance": "medetomidine",
+    "TaskName": "sensory-stimulation",
+    "Paradigm": {
+        "SensorySystem": "forepaw",
+        "Type": "electric",
+        "Onsets": "45, 105, 165, 225, 285",
+        "Duration": "15, 15, 15, 15, 15"
+    },
+    "MRIVendor": "Bruker",
+    "MagneticFieldStrength": 7.0,
+    "EchoTime": 0.05,
+    "RepetitionTime": 3.0,
+    "Sequence": "SE-EPI"
+}

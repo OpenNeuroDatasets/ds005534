@@ -1,0 +1,11 @@
+{
+    "Subject": "200201",
+    "RatStrain": "Sprague Dawley",
+    "RatSex": "male",
+    "AnesthesiaMaintenance": "isoflurane / medetomidine",
+    "MRIVendor": "Bruker",
+    "MagneticFieldStrength": 7.0,
+    "RepetitionTime": 6.5,
+    "Sequence": "RARE",
+    "EchoTime": 0.05
+}

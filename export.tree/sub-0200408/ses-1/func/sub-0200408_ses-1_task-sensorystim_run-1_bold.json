@@ -1,0 +1,18 @@
+{
+    "Subject": "200408",
+    "RatStrain": "Fischer 344",
+    "RatSex": "female",
+    "AnesthesiaMaintenance": "isoflurane / medetomidine",
+    "TaskName": "sensory-stimulation",
+    "Paradigm": {
+        "SensorySystem": "forepaw",
+        "Type": "electric",
+        "Onsets": "5, 35, 65, 95, 125, 155, 185, 215, 245, 275, 305, 335, 365, 395, 425, 455, 485, 515, 545, 575",
+        "Duration": "5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5,"
+    },
+    "MRIVendor": "Bruker",
+    "MagneticFieldStrength": 9.4,
+    "EchoTime": 0.018,
+    "RepetitionTime": 1.0,
+    "Sequence": "GE-EPI"
+}

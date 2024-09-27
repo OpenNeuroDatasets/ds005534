@@ -1,0 +1,11 @@
+{
+    "Subject": "201009",
+    "RatStrain": "Wistar",
+    "RatSex": "male",
+    "AnesthesiaMaintenance": "alpha-chloralose",
+    "MRIVendor": "Bruker",
+    "MagneticFieldStrength": 7.0,
+    "RepetitionTime": 4.6,
+    "Sequence": "turboRARE",
+    "EchoTime": 0.03
+}

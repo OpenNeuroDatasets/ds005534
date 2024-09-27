@@ -1,0 +1,11 @@
+{
+    "Subject": "200603",
+    "RatStrain": "Wistar",
+    "RatSex": "female",
+    "AnesthesiaMaintenance": "medetomidine",
+    "MRIVendor": "Bruker",
+    "MagneticFieldStrength": 9.4,
+    "RepetitionTime": 3.7,
+    "Sequence": "turboRARE",
+    "EchoTime": 0.033
+}

@@ -1,0 +1,18 @@
+{
+    "Subject": "201901",
+    "RatStrain": "Sprague Dawley",
+    "RatSex": "male",
+    "AnesthesiaMaintenance": "alpha-chloralose/pancuronium",
+    "TaskName": "sensory-stimulation",
+    "Paradigm": {
+        "SensorySystem": "forepaw",
+        "Type": "electric",
+        "Onsets": "15, 37.5, 60, 82.5, 105, 127.5, 150, 172.5",
+        "Duration": "4, 4, 4, 4, 4, 4, 4, 4"
+    },
+    "MRIVendor": "Bruker",
+    "MagneticFieldStrength": 14.0,
+    "EchoTime": 0.0115,
+    "RepetitionTime": 1.5,
+    "Sequence": "GE-EPI"
+}
