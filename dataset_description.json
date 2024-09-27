@@ -62,5 +62,7 @@
         "Sung-Ho Lee",
         "Joanes Grandjean"
     ],
-    "Acknowledgements": "This project was kindly supported by the Dutch Research Council (OCENW.KLEIN.334, OSF23.1.037), National Institute of Health (K01EB023983, T32 AA007573), Deutsche Forschungsgemeinschaft (406818964), UK Biotechnology and Biological Sciences Research Council (BBSRC, BB/N009088/1), UK Medical Research Council (MR/N013700/1), European Research Council (ERC; agreement No. PI18/00893, 896245, 679058), Ministerio de Econom\u00eda y Competitividad (DPI2015-64358-C2-2-R), Fonds de recherche du Qu\u00e9bec, Interdisciplinary Center for Clinical Research M\u00fcnster (PIX), Funda\u00e7\u00e3o para a Ci\u00eancia e Tecnologia (Portugal, project 275-FCT-PTDC/BBB-IMG/5132/2014)."
+    "Acknowledgements": "This project was kindly supported by the Dutch Research Council (OCENW.KLEIN.334, OSF23.1.037), National Institute of Health (K01EB023983, T32 AA007573), Deutsche Forschungsgemeinschaft (406818964), UK Biotechnology and Biological Sciences Research Council (BBSRC, BB/N009088/1), UK Medical Research Council (MR/N013700/1), European Research Council (ERC; agreement No. PI18/00893, 896245, 679058), Ministerio de Economía y Competitividad (DPI2015-64358-C2-2-R), Fonds de recherche du Québec, Interdisciplinary Center for Clinical Research Münster (PIX), Fundação para a Ciência e Tecnologia (Portugal, project 275-FCT-PTDC/BBB-IMG/5132/2014).",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005534.v1.0.0",
+    "License": "CC0"
 }
